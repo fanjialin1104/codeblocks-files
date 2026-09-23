@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1788930640 source:d:\codeblocksfiles\pta\1.cpp
+	<stdio.h>
+
+1788931829 source:d:\codeblocksfiles\pta\2.cpp
+	<stdio.h>
+
+1789476402 source:d:\codeblocksfiles\pta\4.cpp
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdio.h>
+	<stdio.h>
+
+1789531431 source:d:\codeblocksfiles\pta\5.cpp
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+
+1789781944 source:d:\codeblocksfiles\pta\6.cpp
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+
+1789983690 source:d:\codeblocksfiles\pta\7.cpp
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<math.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+
+1790132370 source:d:\codeblocksfiles\pta\8.cpp
+	<stdio.h>
+	<math.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+

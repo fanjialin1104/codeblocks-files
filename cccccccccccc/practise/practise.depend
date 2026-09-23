@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1762676062 source:e:\cccccccccccc\practise\1.cpp
+	<stdio.h>
+
+1761998344 source:e:\cccccccccccc\practise\2.cpp
+	<stdio.h>
+	<math.h>
+
+1762995407 source:e:\cccccccccccc\practise\4.cpp
+	<math.h>
+	<stdio.h>
+
+1763276764 source:e:\cccccccccccc\practise\5.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
+1763476499 source:e:\cccccccccccc\practise\6.cpp
+	<stdio.h>
+
+1763480531 source:e:\cccccccccccc\practise\9.cpp
+	<stdio.h>
+
+1763870953 source:e:\cccccccccccc\practise\10.cpp
+
+1763905511 source:e:\cccccccccccc\practise\12.cpp
+	<stdio.h>
+
+1764775830 source:e:\cccccccccccc\practise\14.cpp
+	<stdio.h>
+
+1765073867 source:e:\cccccccccccc\practise\16.cpp
+	<stdio.h>
+
+1765074307 source:e:\cccccccccccc\practise\17.cpp
+	<stdio.h>
+
+1765092013 source:e:\cccccccccccc\practise\18.cpp
+	<stdio.h>
+
+1765270069 source:e:\cccccccccccc\practise\19.cpp
+	<stdio.h>
+	<string.h>
+
+1765269775 source:e:\cccccccccccc\practise\20.cpp
+
+1767789528 source:e:\cccccccccccc\practise\21.cpp
+	<stdio.h>
+	<stdio.h>
+
+1766414485 source:e:\cccccccccccc\practise\22.cpp
+	<stdio.h>
+
+1766416250 source:e:\cccccccccccc\practise\23.cpp
+	<stdio.h>
+
+1766635872 source:e:\cccccccccccc\practise\24.cpp
+	<stdio.h>
+
+1766638181 source:e:\cccccccccccc\practise\25.cpp
+	<stdio.h>
+
+1766638808 source:e:\cccccccccccc\practise\26.cpp
+	<stdio.h>
+
+1766639710 source:e:\cccccccccccc\practise\27.cpp
+
+1767685484 source:e:\cccccccccccc\practise\29.cpp
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+
+1767686230 source:e:\cccccccccccc\practise\30.cpp
+	<stdio.h>
+	<string.h>
+
+1768276815 source:e:\cccccccccccc\practise\31.cpp
+	<string.h>
+	<stdio.h>
+	<string.h>
+
+1768450453 source:e:\cccccccccccc\practise\32.cpp
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+
+1768730758 source:e:\cccccccccccc\practise\33.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1769678295 source:e:\cccccccccccc\practise\34.cpp
+	<stdio.h>
+

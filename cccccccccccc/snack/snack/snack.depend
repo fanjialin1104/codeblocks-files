@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1765599977 source:e:\cccccccccccc\snack\snack\1.cpp
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
+1765707332 source:e:\cccccccccccc\snack\snack\2.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	<stddef.h>
+
+1768283502 source:e:\cccccccccccc\snack\snack\main.cpp
+	<graphics.h>
+	<ege/fps.h>
+	<math.h>
+
+1768280372 source:e:\cccccccccccc\snack\snack\4.cpp
+	<stdlib.h>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1768282556 source:e:\cccccccccccc\snack\snack\5.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1770363505 source:e:\cccccccccccc\snack\snack\6.cpp
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1770363784 source:e:\cccccccccccc\snack\snack\7.cpp
+	<graphics.h>
+	<ege/fps.h>
+	<math.h>
+

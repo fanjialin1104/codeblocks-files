@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1761815116 source:f:\exercise\xxxxxx\1.cpp
+	<stdio.h>
+
+1770375812 source:e:\cccccccccccc\exercise\xxxxxx\2.cpp
+	<stdio.h>
+	<math.h>
+

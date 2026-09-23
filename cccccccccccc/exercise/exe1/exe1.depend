@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1761812506 source:f:\exercise\exe1\1.cpp
+	<stdio.h>
+
+1761814504 source:f:\exercise\exe1\2.cpp
+	<stdio.h>
+
+1761922460 source:f:\exercise\exe1\3.cpp
+	<stdio.h>
+
+1761974782 source:f:\exercise\exe1\4.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

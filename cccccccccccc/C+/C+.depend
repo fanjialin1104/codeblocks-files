@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1778510114 source:e:\cccccccccccc\c+\main.cpp
+	<iostream>
+
+1781523922 source:e:\cccccccccccc\c+\1.cpp
+	<iostream>
+
+1781523896 source:e:\cccccccccccc\c+\2.cpp
+	<iostream>
+	<iostream>
+	<iomanip>
+
+1780834388 source:e:\cccccccccccc\c+\3.cpp
+	<iostream>
+	<string>
+	<cstdio>
+
+1781525195 source:e:\cccccccccccc\c+\5.cpp
+	<iostream>
+	<cstring>
+
+1782025808 source:e:\cccccccccccc\c+\6.cpp
+	<iostream>
+	<cstring>
+
+1782559560 source:e:\cccccccccccc\c+\7.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<iostream>
+	<cstring>
+	<iomanip>
+	<iostream>
+
+1782974445 source:e:\cccccccccccc\c+\8.cpp
+	<iostream>
+
+1783748320 source:e:\cccccccccccc\c+\9.cpp
+	<iostream>
+	<iostream>
+	<iostream>
+
