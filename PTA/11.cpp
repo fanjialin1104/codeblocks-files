@@ -197,6 +197,58 @@ int main()
     }
     return 0;
 }
+*//*
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+    long long N;
+    scanf("%lld", &N);
+    long long max_len = 0, start = 0;
+    long long sqrt_n = sqrt(N);
+
+    // 枚举起点i
+    for (long long i = 2; i <= sqrt_n; i++)
+    {
+        long long product = 1;
+        long long j;
+        for (j = i; product * j <= N; j++)
+        {
+            product *= j;
+            if (N % product == 0)
+            {
+                // 更新最长序列
+                if (j - i + 1 > max_len)
+                {
+                    max_len = j - i + 1;
+                    start = i;
+                }
+            }
+            else
+            {
+                break;
+            }
+        }
+    }
+
+    if (max_len == 0)
+    {
+        // 质数情况
+        printf("1\n%lld\n", N);
+    }
+    else
+    {
+        printf("%lld\n", max_len);
+        for (long long i = 0; i < max_len; i++)
+        {
+            if (i > 0) printf("*");
+            printf("%lld", start + i);
+        }
+        printf("\n");
+    }
+    return 0;
+}
 */
 #include<stdio.h>
 int main()
